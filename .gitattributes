@@ -1,0 +1,4 @@
+llama2/llama2_7b.bin filter=lfs diff=lfs merge=lfs -text
+llama2/tokenizer.bin filter=lfs diff=lfs merge=lfs -text
+llama2/tokenizer.model filter=lfs diff=lfs merge=lfs -text
+llama2/data.csv filter=lfs diff=lfs merge=lfs -text
