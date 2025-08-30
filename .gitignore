@@ -1,0 +1,5 @@
+llama2/
+llama2/llama2_7b.bin
+llama2/tokenizer.model
+llama2/tokenizer.bin
+output_anaylse.ncu-rep

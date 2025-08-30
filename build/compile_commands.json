@@ -1,0 +1,236 @@
+[
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/tensor/tensor.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/tensor/tensor.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/tensor/tensor.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/tensor/tensor.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/base/alloc.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/base/alloc.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/base/alloc.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/base/alloc.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/base/alloc_cpu.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/base/alloc_cpu.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/base/alloc_cpu.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/base/alloc_cpu.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/base/alloc_cu.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/base/alloc_cu.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/base/alloc_cu.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/base/alloc_cu.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/base/base.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/base/base.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/base/base.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/base/base.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/base/buffer.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/base/buffer.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/base/buffer.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/base/buffer.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/add.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/add.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/add.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/add.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/embedding.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/embedding.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/embedding.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/embedding.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/encode.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/encode.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/encode.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/encode.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/layer.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/layer.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/layer.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/layer.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/matmul.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/matmul.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/matmul.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/matmul.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/mha.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/mha.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/mha.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/mha.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/rmsnorm.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/rmsnorm.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/rmsnorm.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/rmsnorm.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/rope.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/rope.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/rope.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/rope.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/swiglu.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/swiglu.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/swiglu.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/swiglu.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/kernels_interfaces.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/kernels_interfaces.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/kernels_interfaces.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/kernels_interfaces.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/model/llama2.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/model/llama2.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/model/llama2.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/model/llama2.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/model/model.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/model/model.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/model/model.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/model/model.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/model/raw_model_data.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/model/raw_model_data.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/model/raw_model_data.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/model/raw_model_data.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/add_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/add_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/add_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/add_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/emb_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/emb_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/emb_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/emb_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/matmul_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/matmul_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/matmul_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/matmul_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/mha_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/mha_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/mha_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/mha_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/rmsnorm_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/rmsnorm_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/rmsnorm_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/rmsnorm_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/rope_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/rope_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/rope_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/rope_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/scale_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/scale_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/scale_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/scale_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/scale_sum_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/scale_sum_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/scale_sum_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/scale_sum_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/softmax_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/softmax_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/softmax_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/softmax_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/swiglu_kernel.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/swiglu_kernel.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cpu/swiglu_kernel.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cpu/swiglu_kernel.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/local/cuda-12.9/bin/nvcc -forward-unknown-to-host-compiler -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS --options-file CMakeFiles/llmframe.dir/includes_CUDA.rsp -g -std=c++14 \"--generate-code=arch=compute_120,code=[compute_120,sm_120]\" -Xcompiler=-fPIC -x cu -rdc=true -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/add_kernel.cu -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/add_kernel.cu.o",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/add_kernel.cu",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/add_kernel.cu.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/local/cuda-12.9/bin/nvcc -forward-unknown-to-host-compiler -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS --options-file CMakeFiles/llmframe.dir/includes_CUDA.rsp -g -std=c++14 \"--generate-code=arch=compute_120,code=[compute_120,sm_120]\" -Xcompiler=-fPIC -x cu -rdc=true -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/argmax_kernel.cu -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/argmax_kernel.cu.o",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/argmax_kernel.cu",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/argmax_kernel.cu.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/local/cuda-12.9/bin/nvcc -forward-unknown-to-host-compiler -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS --options-file CMakeFiles/llmframe.dir/includes_CUDA.rsp -g -std=c++14 \"--generate-code=arch=compute_120,code=[compute_120,sm_120]\" -Xcompiler=-fPIC -x cu -rdc=true -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/emb_kernel.cu -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/emb_kernel.cu.o",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/emb_kernel.cu",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/emb_kernel.cu.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/local/cuda-12.9/bin/nvcc -forward-unknown-to-host-compiler -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS --options-file CMakeFiles/llmframe.dir/includes_CUDA.rsp -g -std=c++14 \"--generate-code=arch=compute_120,code=[compute_120,sm_120]\" -Xcompiler=-fPIC -x cu -rdc=true -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/matmul_kernel.cu -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/matmul_kernel.cu.o",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/matmul_kernel.cu",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/matmul_kernel.cu.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/local/cuda-12.9/bin/nvcc -forward-unknown-to-host-compiler -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS --options-file CMakeFiles/llmframe.dir/includes_CUDA.rsp -g -std=c++14 \"--generate-code=arch=compute_120,code=[compute_120,sm_120]\" -Xcompiler=-fPIC -x cu -rdc=true -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/mha_kernel.cu -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/mha_kernel.cu.o",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/mha_kernel.cu",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/mha_kernel.cu.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/local/cuda-12.9/bin/nvcc -forward-unknown-to-host-compiler -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS --options-file CMakeFiles/llmframe.dir/includes_CUDA.rsp -g -std=c++14 \"--generate-code=arch=compute_120,code=[compute_120,sm_120]\" -Xcompiler=-fPIC -x cu -rdc=true -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/rmsnorm_kernel.cu -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/rmsnorm_kernel.cu.o",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/rmsnorm_kernel.cu",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/rmsnorm_kernel.cu.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/local/cuda-12.9/bin/nvcc -forward-unknown-to-host-compiler -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS --options-file CMakeFiles/llmframe.dir/includes_CUDA.rsp -g -std=c++14 \"--generate-code=arch=compute_120,code=[compute_120,sm_120]\" -Xcompiler=-fPIC -x cu -rdc=true -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/rope_kernel.cu -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/rope_kernel.cu.o",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/rope_kernel.cu",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/rope_kernel.cu.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/local/cuda-12.9/bin/nvcc -forward-unknown-to-host-compiler -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS --options-file CMakeFiles/llmframe.dir/includes_CUDA.rsp -g -std=c++14 \"--generate-code=arch=compute_120,code=[compute_120,sm_120]\" -Xcompiler=-fPIC -x cu -rdc=true -c /home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/swiglu_kernel.cu -o CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/swiglu_kernel.cu.o",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/op/kernels/cuda/swiglu_kernel.cu",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/op/kernels/cuda/swiglu_kernel.cu.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -Dllmframe_EXPORTS -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -fPIC -o CMakeFiles/llmframe.dir/llminfer/source/sampler/argmax_sampler.cpp.o -c /home/star/star/llminfer/llminfer/llminfer/source/sampler/argmax_sampler.cpp",
+  "file": "/home/star/star/llminfer/llminfer/llminfer/source/sampler/argmax_sampler.cpp",
+  "output": "CMakeFiles/llmframe.dir/llminfer/source/sampler/argmax_sampler.cpp.o"
+},
+{
+  "directory": "/home/star/star/llminfer/llminfer/build/demo",
+  "command": "/usr/bin/c++ -DGLOG_USE_GLOG_EXPORT -I/home/star/star/llminfer/llminfer/llminfer/include -I/usr/local/cuda-12.9/targets/x86_64-linux/include -g -std=gnu++17 -o CMakeFiles/llama2_infer.dir/main.cpp.o -c /home/star/star/llminfer/llminfer/demo/main.cpp",
+  "file": "/home/star/star/llminfer/llminfer/demo/main.cpp",
+  "output": "demo/CMakeFiles/llama2_infer.dir/main.cpp.o"
+}
+]
